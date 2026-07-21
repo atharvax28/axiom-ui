@@ -1,0 +1,35 @@
+{
+  "name": "@axiom-ui/india-map",
+  "version": "0.1.0",
+  "description": "Interactive, accessible SVG choropleth map of India for React — no heavy map libraries.",
+  "keywords": [
+    "react",
+    "india",
+    "map",
+    "choropleth",
+    "svg",
+    "heatmap",
+    "data-visualization",
+    "component"
+  ],
+  "license": "MIT",
+  "author": "Atharva Tayade",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atharvax28/axiom-ui.git",
+    "directory": "packages/india-map"
+  },
+  "type": "module",
+  "main": "./src/IndiaMap.tsx",
+  "types": "./src/IndiaMap.tsx",
+  "files": [
+    "src"
+  ],
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

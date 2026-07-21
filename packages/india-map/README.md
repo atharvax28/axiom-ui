@@ -2,6 +2,10 @@
 
 A production-grade, highly interactive SVG India map for React and Next.js. No Leaflet, no Mapbox, no runtime map libraries — just React and an inline path set.
 
+<p align="center">
+  <img src="../../assets/india-map-preview.png" alt="India Map — interactive choropleth" width="720" />
+</p>
+
 ## Features
 
 - **Accurate geographic paths** — all 36 states and union territories, rendered inline from `india-paths.json`.

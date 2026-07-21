@@ -7,12 +7,16 @@ Thanks for taking the time to contribute! This guide covers how to get set up an
 ```
 axiom-ui/
 ├── packages/
-│   └── india-map/          # Component source + its own README
+│   ├── india-map/              # Component source + its own README
+│   │   └── src/
+│   │       ├── IndiaMap.tsx
+│   │       └── india-paths.json
+│   └── serpentine-timeline/
 │       └── src/
-│           ├── IndiaMap.tsx
-│           └── india-paths.json
-├── registry/               # shadcn-style registry items (copy-paste install)
-└── .github/                # Issue & PR templates
+│           └── SerpentineTimeline.tsx
+├── registry/                   # shadcn-style registry items (copy-paste install)
+├── assets/                     # preview images
+└── .github/                    # Issue & PR templates
 ```
 
 This is a monorepo. New components live under `packages/<component-name>/`.

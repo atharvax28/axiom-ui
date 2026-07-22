@@ -5,10 +5,18 @@
   "keywords": [
     "react",
     "timeline",
+    "react-timeline",
     "roadmap",
     "serpentine",
+    "serpentine-timeline",
+    "s-curve",
+    "snaking-timeline",
+    "zigzag-timeline",
+    "responsive-timeline",
+    "process-steps",
     "svg",
     "responsive",
+    "tailwind",
     "component"
   ],
   "license": "MIT",

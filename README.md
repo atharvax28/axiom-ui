@@ -21,6 +21,8 @@ No black-box package. No design-system lock-in. Copy the files in, tweak the pro
 
 An interactive, accessible SVG choropleth of India — all 36 states & UTs, dynamic heatmap colouring, keyboard navigation, and a glassmorphism tooltip. No Leaflet, no Mapbox.
 
+> _Also searched as: interactive India map React component · India choropleth / heatmap · SVG map of Indian states · react-india-map without Leaflet or Mapbox._
+
 <p align="center">
   <img src="./assets/india-map-preview.png" alt="India Map — interactive choropleth" width="760" />
 </p>
@@ -36,6 +38,8 @@ npx shadcn@latest add https://raw.githubusercontent.com/atharvax28/axiom-ui/main
 ### 🧵 Serpentine Timeline
 
 A responsive timeline that snakes as a horizontal **S-curve** on desktop and folds into a clean vertical list on mobile. Fully themeable, flexible icons, zero runtime dependencies.
+
+> _Also searched as: React timeline component · S-curve / snaking / serpentine timeline · responsive roadmap timeline · zig-zag process steps._
 
 <p align="center">
   <img src="./assets/serpentine-timeline-preview.png" alt="Serpentine Timeline — desktop layout" width="820" />

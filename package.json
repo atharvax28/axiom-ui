@@ -1,0 +1,14 @@
+{
+  "name": "axiom-ui",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Interactive India map and serpentine timeline — copy-paste React + TypeScript components.",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0"
+  }
+}
